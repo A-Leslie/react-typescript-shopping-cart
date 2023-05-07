@@ -8,7 +8,7 @@ export const About = () => {
       <h1>About Us</h1>
       <Row className="my-5">
         <Col md={6}>
-          <img src={"https://i.pinimg.com/736x/8b/e5/0e/8be50e4dec064fff0bfb21c0dfb8fcd9.jpg"} alt="About Us" className="img-fluid mb-3" />
+          <img src={"https://i.pinimg.com/474x/96/06/47/960647166bc53dff3204a863271571ab.jpg"} alt="About Us" className="img-fluid mb-3" style={{"width":"400px",}} />
         </Col>
         <Col md={6}>
           <p className="lead">
@@ -31,7 +31,7 @@ export const About = () => {
           </p>
         </Col>
         <Col md={6}>
-          <img src={"https://i.pinimg.com/736x/8b/e5/0e/8be50e4dec064fff0bfb21c0dfb8fcd9.jpg"} alt="About Us" className="img-fluid mb-3" />
+          <img src={"https://i.pinimg.com/474x/d8/c4/e1/d8c4e1dbb468aa25e30f95536c8d4052.jpg"} alt="About Us" className="img-fluid mb-3" />
         </Col>
       </Row>
     </Container>
