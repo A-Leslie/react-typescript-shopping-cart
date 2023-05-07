@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Anne Klein Women's watch",
+      "price": 10.99,
+      "imgUrl": "/imgs/watch1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Philosopher White Leather watch",
+      "price": 30.99,
+      "imgUrl": "/imgs/watch6.jpg"
+    },
+    {
+      "id": 3,
+      "name": "The Gabby White  Silver smartwatch",
+      "price": 15.05,
+      "imgUrl": "/imgs/watch31.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Touch screen watch red",
+      "price": 14.00,
+      "imgUrl": "/imgs/watch4.jpg"
+    }
+  ]
