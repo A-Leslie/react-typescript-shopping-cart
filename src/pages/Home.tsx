@@ -29,7 +29,7 @@ export const Home = () => {
                  <img
                    src="https://i.pinimg.com/736x/8b/e5/0e/8be50e4dec064fff0bfb21c0dfb8fcd9.jpg"
                    className="img-fluid rounded"
-                   alt="Product"
+                   alt="sales"
                  />
                </animated.div>
                <animated.div style={buttonAnimation} className="col-md-6">
